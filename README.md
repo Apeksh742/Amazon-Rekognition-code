@@ -1,1 +1,1 @@
-# Amazon-Rekognition-label-detection
+# Amazon-Rekognition-code
